@@ -1,4 +1,54 @@
 body, html {
-    height: 100vh;
+    height: 126%;
 }
 
+#redbar{
+    background-size: cover;
+}
+
+.subro{
+    width: 100%;
+}
+
+.busi{
+    width: 100%;
+}
+
+.liti{
+    width: 100%;
+}
+
+.transpo{
+    width: 100%;
+}
+
+#att-text{
+    margin: 10%;
+}
+
+#redtext h4{
+    
+    color: white;
+    font-weight: normal;
+    
+}
+
+#redtext p{
+    color: white;
+    margin: 0px;
+    margin-left: 20%;
+}
+
+#redtext h6{
+    color: white;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+
+#att-text{
+    color: white;
+}
+
+#attred{
+    width: 80%;
+}
