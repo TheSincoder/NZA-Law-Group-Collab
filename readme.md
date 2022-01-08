@@ -8,3 +8,4 @@ Framework: Caleb Reeves
 Contact Us: Zavier Thompson
 Who we are: Ryan Landis
 Where We Work: Frances Thompson
+What We Do: Caleb Reeves
