@@ -1,3 +1,31 @@
+main
+html, body {
+    height: 130%;
+}
+
+.container {
+    display: flex;
+    }
+
+body {
+    background-image: url("../images/nza_background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#forest{ 
+    margin-top:2%;  
+}   
+    
+#redbox{ 
+    color: white;
+}
+
+#bigshot p{
+    margin: 0px;
+}
+
 body, html {
     height: 126%;
 }
