@@ -24,12 +24,12 @@ Ryan and Caleb met Friday evening and completed the 'WHO' and the 'WHAT' pages.
 
 Due to scheduling conflicts, Frances and Zavier were not able to make it and
 completed their work seperately. 
-
+zAVIER
 Frances completed his page "WHERE" Friday night. 
 
 Ryan and Caleb met Sunday morning to fix the visuals for large screens and
 larger
 
-Zaver completed the page "CONTACT US" Sunday evening 
+Zaver completed the page "CONTACT US" Sunday evening. Zavier made a few last minute changes to contact page and turned in completed change on Monday. 
 
 Project turned in Sunday Evening. 
